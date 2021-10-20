@@ -1,6 +1,6 @@
 ### Hi there, my name is Glauberio Pereira. 
 ### I've been a SW development enthusiast since I got my first PC in the 90s
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gapjr&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gapjr&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/GAPJr)
 
 <div style="display: inline_block">
   <hr>
