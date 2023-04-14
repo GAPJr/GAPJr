@@ -1,8 +1,8 @@
 ### Hi there, my name is [Glauberio Pereira](https://github.com/gapjr). 😎
 #### I've been an enthusiast about SW development since I got my first PC in the 90s. 👨‍💻
 
-##### - 🔭 I’m currently working full-time as a SW Developer at [Bosch](https://www.bosch.com/)
-##### - 🌱 I’m currently studying for [Santander Coders Web Full Stack 2021](https://app.becas-santander.com/en/program/bolsas-santander-tecnologia-santander-coders-web-full-stack-2021) led by [Let's Code](https://letscode.com.br/) ...
+##### - 🔭 I’m currently working full-time as a SW Developer at [Vidir](https://vidirsolutions.com/)
+##### - 🌱 I've concluded the [Santander Coders Web Full Stack 2021](https://app.becas-santander.com/en/program/bolsas-santander-tecnologia-santander-coders-web-full-stack-2021) led by [Let's Code](https://letscode.com.br/) ...
 ##### - 👯 I’m looking forward to collaborate on interesting projects with other developers 👨‍💻
 
 #### I'm glad to have you here and I wish you would find interesting code here to support you somehow. 😉 
